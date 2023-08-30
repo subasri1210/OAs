@@ -28,7 +28,8 @@ job overflow - https://www.thejoboverflow.com/p/p1465/
 
 - Minimum Moves - https://www.thejoboverflow.com/p/p1352/
 
--
+- IIIT Delhi 5 questions - https://www.thejoboverflow.com/p/p1300/
 
+- Distribute Ranges - https://leetcode.com/discuss/interview-question/2539230/ORACLE-OA-question
 
-
+- Bracket sequence - https://leetcode.com/discuss/interview-question/3875065/Oracle-Oa-2023-or-oarcle
